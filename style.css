@@ -2,6 +2,12 @@ body {
     margin: 0;
 }
 
+a{
+  cursor: pointer;  
+  color: #FFFFFF;
+  
+}
+
 .top-container {
     padding: 0;
     margin: 0;
@@ -78,3 +84,4 @@ h2 {
 .dropdown:hover .dropbtn {
     background-color: #787878;
 }
+
