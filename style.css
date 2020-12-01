@@ -2,22 +2,14 @@ body {
     margin: 0;
 }
 
-a{
-  cursor: pointer;  
-  color: #FFFFFF;
-  
-}
-
 .top-container {
     padding: 0;
     margin: 0;
     width: 100%;
     color: rgb(255, 255, 255);
-    background-color: #323336;
+    background-color: #484f5a;
     font-size: 2em;
     font-weight: bold;
-   
-    
 }
 
 .top-container i {
@@ -31,7 +23,7 @@ a{
 }
 
 h2 {
-    margin-top: 0px;
+    margin-top: 10px;
 }
 
 /* Dropdown Button */
@@ -46,9 +38,10 @@ h2 {
 
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
-  
+    position: relative;
     display: inline-block;
-    
+    text-align: left;
+
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -85,4 +78,3 @@ h2 {
 .dropdown:hover .dropbtn {
     background-color: #787878;
 }
-
