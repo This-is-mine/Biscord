@@ -108,8 +108,8 @@ h2 {
     position: absolute;
     width: 225px; /* Set a width if you like */
     height: 481px;
-    top:0;
-    left: 10000;
+    top:0px;
+    left: 50px;
   }
   
   .vertical-menu a {
