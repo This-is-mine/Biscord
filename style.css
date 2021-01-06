@@ -113,7 +113,7 @@ h2 {
   }
   
   .vertical-menu a {
-    background-color: #212226;/* Grey background color */
+    background-color: #303136;/* Grey background color */
     color: #ffffff; /* Black text color */
     display: block; /* Make the links appear below each other */
     padding: 12px; /* Add some padding */
@@ -126,5 +126,5 @@ h2 {
   
   .vertical-menu a.active {
     
-    background-color:#212226; /* Add a green color to the "active/current" link */
+    background-color:#303136; /* Add a green color to the "active/current" link */
     color: white;
