@@ -14,7 +14,7 @@ hr2 {
 
 bar {
     position: absolute;
-    left: 295px;
+    left: 225px;
 }
  
 h {
@@ -119,7 +119,7 @@ h2 {
     width: 225px; /* Set a width if you like */
     height: 481px;
     top:0px;
-    left: 70px;
+    left: 0px;
   }
   
   .vertical-menu a {
