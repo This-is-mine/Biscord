@@ -14,6 +14,7 @@ button2{
 }
 
 brubru{
+  cursor: pointer;
   position: absolute;
   background-color: #484f5a;
   border: none;
@@ -22,7 +23,6 @@ brubru{
   color: #a5a5a5;
   left: 1273px;
   top: 0px;
-  cursor: pointer;
 }
 hr2 {
   display: block;
