@@ -5,14 +5,16 @@
   background-color: #38393e;
 }
 
-button1{
+brubru{
+  position: absolute;
   background-color: #38393e;
   border: none;
   width: 80px;
   height: 70px;
   color: #a5a5a5;
   cursor: pointer;
-  margin: 0 1260px ;
+  left: 1274px;
+  top: 0px;
 }
 hr2 {
   display: block;
